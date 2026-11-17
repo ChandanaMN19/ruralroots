@@ -1,5 +1,6 @@
 # 🌾 RuralRoots - Offline-Resilient Rural E-Commerce Platform
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ruralroots.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ruralroots.vercel.app/)
 ![Java 17](https://img.shields.io/badge/Java-17%2B-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.2-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -7,11 +8,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.0-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+🌐 **Live Application:** [https://ruralroots.vercel.app/](https://ruralroots.vercel.app/)
+
 > **RuralRoots** is a production-ready, full-stack digital inclusion e-commerce platform engineered specifically for rural communities. Designed to overcome extreme network constraints (2G/3G spotty connectivity), low-end Android smartphones (< 2GB RAM), low text literacy, and non-existent door-to-door street addresses.
 
 ---
 
 ## 📌 Table of Contents
+- [🌐 Live Demo](#-live-demo)
 - [🌟 Key Features](#-key-features)
 - [🏗 System Architecture](#-system-architecture)
 - [📊 Database ERD Schema](#-database-erd-schema)
@@ -21,6 +25,15 @@
 - [🚀 Quick Start & Installation](#-quick-start--installation)
 - [📡 API Documentation](#-api-documentation)
 - [🤝 Contributing & License](#-contributing--license)
+
+---
+
+## 🌐 Live Demo
+
+The production Progressive Web App is deployed and accessible at:  
+👉 **[https://ruralroots.vercel.app/](https://ruralroots.vercel.app/)**
+
+You can install it directly to your home screen as a PWA and test offline functionality (disconnect internet or toggle Airplane mode in browser DevTools).
 
 ---
 
@@ -245,7 +258,8 @@ npm install
 # Start Vite PWA development server (Port 3000)
 npm run dev
 ```
-* **PWA Web App URL:** `http://localhost:3000`
+* **PWA Web App URL (Local):** `http://localhost:3000`
+* **Live Deployment URL (Vercel):** [https://ruralroots.vercel.app/](https://ruralroots.vercel.app/)
 
 ---
 
